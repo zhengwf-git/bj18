@@ -1,1 +1,2 @@
-def 
+def func():
+    print("123")
